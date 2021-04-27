@@ -1,0 +1,6 @@
+tensorflow==1.15
+tokenizers==0.10.2
+git+git://github.com/google-research/bert
+git+git://github.com/allenai/bi-att-flow
+sentencepiece
+pytorch_transformers
